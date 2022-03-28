@@ -13,6 +13,5 @@
   "dependencies": {
     "pouchdb-adapter-websql-core": "git+https://github.com/demon24ru/pouchdb-adapter-websql-core.git",
     "websql": "^2.0.2"
-  },
-  "files": []
+  }
 }
